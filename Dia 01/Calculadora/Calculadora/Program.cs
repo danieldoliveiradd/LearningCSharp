@@ -9,7 +9,7 @@ namespace Calculadora
             try
             {
                 Console.WriteLine("Olá, qual operação você deseja fazer? \n");
-                Console.WriteLine("1) +");
+                Console.WriteLine("1) +");  
                 Console.WriteLine("2) -");
                 Console.WriteLine("3) *");
                 Console.WriteLine("4) /");
