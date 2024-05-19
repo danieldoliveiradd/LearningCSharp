@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\bin\Debug\net8.0\Calculadora de Área do Círculo.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\bin\Debug\net8.0\Calculadora de Área do Círculo.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\bin\Debug\net8.0\Calculadora de Área do Círculo.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\bin\Debug\net8.0\Calculadora de Área do Círculo.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\bin\Debug\net8.0\Calculadora de Área do Círculo.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\refint\Calculadora de Área do Círculo.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\Calculadora de Área do Círculo.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 03\Calculadora de Área do Círculo\Calculadora de Área do Círculo\obj\Debug\net8.0\ref\Calculadora de Área do Círculo.dll
