@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\bin\Debug\net8.0\Identificador IEEE 754.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\bin\Debug\net8.0\Identificador IEEE 754.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\bin\Debug\net8.0\Identificador IEEE 754.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\bin\Debug\net8.0\Identificador IEEE 754.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\bin\Debug\net8.0\Identificador IEEE 754.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\refint\Identificador IEEE 754.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\Identificador IEEE 754.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Identificador IEEE 754\Identificador IEEE 754\obj\Debug\net8.0\ref\Identificador IEEE 754.dll

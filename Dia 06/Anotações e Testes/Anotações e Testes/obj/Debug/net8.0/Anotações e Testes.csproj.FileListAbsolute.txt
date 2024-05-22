@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\bin\Debug\net8.0\Anotações e Testes.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\bin\Debug\net8.0\Anotações e Testes.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\bin\Debug\net8.0\Anotações e Testes.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\bin\Debug\net8.0\Anotações e Testes.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\bin\Debug\net8.0\Anotações e Testes.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\refint\Anotações e Testes.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\Anotações e Testes.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 06\Anotações e Testes\Anotações e Testes\obj\Debug\net8.0\ref\Anotações e Testes.dll
