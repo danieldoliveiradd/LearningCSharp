@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\bin\Debug\net8.0\AprofundandoFunções.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\bin\Debug\net8.0\AprofundandoFunções.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\bin\Debug\net8.0\AprofundandoFunções.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\bin\Debug\net8.0\AprofundandoFunções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\bin\Debug\net8.0\AprofundandoFunções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\refint\AprofundandoFunções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\AprofundandoFunções.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Funções II\AprofundandoFunções\AprofundandoFunções\obj\Debug\net8.0\ref\AprofundandoFunções.dll

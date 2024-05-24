@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\bin\Debug\net8.0\Exercicio Funções.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\bin\Debug\net8.0\Exercicio Funções.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\bin\Debug\net8.0\Exercicio Funções.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\bin\Debug\net8.0\Exercicio Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\bin\Debug\net8.0\Exercicio Funções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\refint\Exercicio Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\Exercicio Funções.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 08\Exercício Função II\Exercicio Funções\Exercicio Funções\obj\Debug\net8.0\ref\Exercicio Funções.dll
