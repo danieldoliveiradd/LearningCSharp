@@ -1,0 +1,17 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\bin\Debug\net8.0-windows\FirstWinForm.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\bin\Debug\net8.0-windows\FirstWinForm.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\bin\Debug\net8.0-windows\FirstWinForm.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\bin\Debug\net8.0-windows\FirstWinForm.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\bin\Debug\net8.0-windows\FirstWinForm.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.Form1.resources
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\refint\FirstWinForm.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\FirstWinForm.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\WindowsForm\FirstWinForm\FirstWinForm\obj\Debug\net8.0-windows\ref\FirstWinForm.dll

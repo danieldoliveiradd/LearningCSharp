@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\bin\Debug\net8.0\Praticando Funções.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\bin\Debug\net8.0\Praticando Funções.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\bin\Debug\net8.0\Praticando Funções.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\bin\Debug\net8.0\Praticando Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\bin\Debug\net8.0\Praticando Funções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\refint\Praticando Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\Praticando Funções.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Exercícios\Praticando Funções\Praticando Funções\Praticando Funções\obj\Debug\net8.0\ref\Praticando Funções.dll
