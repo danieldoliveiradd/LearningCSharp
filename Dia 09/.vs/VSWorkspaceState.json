@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConvertendoMoedas",
+    "\\ConvertendoMoedas\\ConvertendoMoedas"
   ],
+  "SelectedNode": "\\ConvertendoMoedas\\ConvertendoMoedas\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
