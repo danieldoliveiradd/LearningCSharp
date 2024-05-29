@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\bin\Debug\net8.0\Retorno de Funções.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\bin\Debug\net8.0\Retorno de Funções.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\bin\Debug\net8.0\Retorno de Funções.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\bin\Debug\net8.0\Retorno de Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\bin\Debug\net8.0\Retorno de Funções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\refint\Retorno de Funções.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\Retorno de Funções.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 13\Retorno de Funções\Retorno de Funções\obj\Debug\net8.0\ref\Retorno de Funções.dll
