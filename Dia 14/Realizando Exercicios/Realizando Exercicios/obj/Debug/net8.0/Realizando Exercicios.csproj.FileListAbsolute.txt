@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\bin\Debug\net8.0\Realizando Exercicios.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\bin\Debug\net8.0\Realizando Exercicios.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\bin\Debug\net8.0\Realizando Exercicios.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\bin\Debug\net8.0\Realizando Exercicios.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\bin\Debug\net8.0\Realizando Exercicios.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\refint\Realizando Exercicios.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\Realizando Exercicios.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 14\Realizando Exercicios\Realizando Exercicios\obj\Debug\net8.0\ref\Realizando Exercicios.dll
