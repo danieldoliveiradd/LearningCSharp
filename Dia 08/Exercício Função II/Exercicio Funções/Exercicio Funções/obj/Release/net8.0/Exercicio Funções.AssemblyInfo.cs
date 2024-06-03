@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AprofundandoFunções")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio Funções")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+259a969cf5d1d5cdd58416d9d1da8d0e6c445ef9")]
-[assembly: System.Reflection.AssemblyProductAttribute("AprofundandoFunções")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AprofundandoFunções")]
+[assembly: System.Reflection.AssemblyProductAttribute("Exercicio Funções")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Exercicio Funções")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
