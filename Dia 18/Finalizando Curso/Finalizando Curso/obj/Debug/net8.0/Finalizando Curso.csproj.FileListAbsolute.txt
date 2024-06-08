@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\bin\Debug\net8.0\Finalizando Curso.exe
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\bin\Debug\net8.0\Finalizando Curso.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\bin\Debug\net8.0\Finalizando Curso.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\bin\Debug\net8.0\Finalizando Curso.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\bin\Debug\net8.0\Finalizando Curso.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.sourcelink.json
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\refint\Finalizando Curso.dll
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\Finalizando Curso.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\LearningCSharp\Dia 19\Finalizando Curso\Finalizando Curso\obj\Debug\net8.0\ref\Finalizando Curso.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Finalizando Curso/1.0.0": {
+        "runtime": {
+          "Finalizando Curso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finalizando Curso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
